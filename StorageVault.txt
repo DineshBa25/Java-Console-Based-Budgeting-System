@@ -1,0 +1,26 @@
+5810.843333333333
+7000.0
+'(T1) Federal-Income-Tax
+1189.1566666666668
+'(T4) FICA
+434.0
+(A) Housing
+860.0
+(B) Utilities
+175.0
+(C) Health Care
+100.0
+(D) Food
+250.0
+(E) Transportation
+450.0
+(F) Personal Care
+150.0
+(G) Entertainment
+150.0
+(H) Debt
+700.0
+(I) Savings
+2000.0
+_(12) HouseSaving
+540.0
